@@ -2,4 +2,4 @@
   - src: git@github.com:AlexeyKhrapov/lighthouse-role.git
     scm: git
     version: "1.0.1"
-    name: vector
+    name: lighthouse
