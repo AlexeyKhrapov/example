@@ -2,4 +2,4 @@
   - src: https://github.com/olkhovik/vector-role.git
     scm: git
     version: "v0.3.1"
-    name: lighthouse
+    name: vector
