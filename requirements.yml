@@ -1,5 +1,5 @@
 ---
-  - src: git@github.com:AlexeyKhrapov/lighthouse-role.git
+  - src: https://github.com/olkhovik/vector-role.git
     scm: git
-    version: "test"
+    version: "v0.3.1"
     name: lighthouse
