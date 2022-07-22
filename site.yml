@@ -1,5 +1,5 @@
 ---
-  - name: Install Vector
+  - name: Install Lighthouse
     hosts: all
     roles:
-      - vector
+      - { role: lighthouse-role }
