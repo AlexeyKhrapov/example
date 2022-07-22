@@ -2,4 +2,4 @@
   - name: Install Lighthouse
     hosts: all
     roles:
-      - lighthouse
+      - vector
