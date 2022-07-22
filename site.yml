@@ -2,4 +2,4 @@
   - name: Install Lighthouse
     hosts: all
     roles:
-      - { role: lighthouse-role }
+      - lighthouse
