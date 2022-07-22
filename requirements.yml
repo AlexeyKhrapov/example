@@ -1,5 +1,5 @@
 ---
   - src: git@github.com:AlexeyKhrapov/test-role.git
     scm: git
-    version: "1.0.0"
+    version: "1.0.1"
     name: vector
